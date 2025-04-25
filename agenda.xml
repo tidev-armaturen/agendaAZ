@@ -1,4 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE HTML>
+<html>
+<head>
+    <title>Agenda de Contatos AZ Armaturen</title>
+</head>
+<body>
+   <?xml version="1.0" encoding="UTF-8"?>
 <PhoneBook>
 <DirectoryEntry>
 <Name>Alex Fernando - Engenharia</Name>
@@ -617,3 +623,6 @@
 <Group></Group>
 </DirectoryEntry>
 </PhoneBook>
+
+</body>
+</html>
