@@ -1,0 +1,619 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PhoneBook>
+<DirectoryEntry>
+<Name>Alex Fernando - Engenharia</Name>
+<Telephone>8700</Telephone>
+<Mobile></Mobile>
+<Other></Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>Alexandre Alves - Fundição</Name>
+<Telephone>8846</Telephone>
+<Mobile></Mobile>
+<Other></Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>Almoxarifado - RE AL EX</Name>
+<Telephone>8845</Telephone>
+<Mobile></Mobile>
+<Other></Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>Amanda Andrade - Vendas</Name>
+<Telephone>8105</Telephone>
+<Mobile></Mobile>
+<Other></Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>Anderson Faia - Engenharia</Name>
+<Telephone>8706</Telephone>
+<Mobile></Mobile>
+<Other></Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>André Momente - Engenharia</Name>
+<Telephone>8740</Telephone>
+<Mobile></Mobile>
+<Other></Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>Bianca Amaral - PCP</Name>
+<Telephone>8721</Telephone>
+<Mobile></Mobile>
+<Other></Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>Bruna Marques - Qualidade</Name>
+<Telephone>8602</Telephone>
+<Mobile></Mobile>
+<Other></Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>Caroline Marques - Vendas</Name>
+<Telephone>8108</Telephone>
+<Mobile></Mobile>
+<Other></Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>Danilo Barbosa - Processo - PCP</Name>
+<Telephone>8904</Telephone>
+<Mobile></Mobile>
+<Other></Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>Diego Desidério - Vendas</Name>
+<Telephone>8103</Telephone>
+<Mobile></Mobile>
+<Other></Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>Diego Silva - PCP</Name>
+<Telephone>8723</Telephone>
+<Mobile></Mobile>
+<Other></Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>Douglas Andrade - Processo - PCP</Name>
+<Telephone>8901</Telephone>
+<Mobile></Mobile>
+<Other></Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>Eduarda Cardozo - Qualidade</Name>
+<Telephone>8603</Telephone>
+<Mobile></Mobile>
+<Other></Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>Luis Trauzula - Financeiro</Name>
+<Telephone>8400</Telephone>
+<Mobile></Mobile>
+<Other></Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>Emerson Romão - TI</Name>
+<Telephone>8500</Telephone>
+<Mobile></Mobile>
+<Other></Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>Emilly da Silva - RH</Name>
+<Telephone>8202</Telephone>
+<Mobile></Mobile>
+<Other></Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>VAGO - Engenharia</Name>
+<Telephone>8702</Telephone>
+<Mobile></Mobile>
+<Other></Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>VAGO - Qualidade</Name>
+<Telephone>8600</Telephone>
+<Mobile></Mobile>
+<Other></Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>Erika Santos - Financeiro</Name>
+<Telephone>8402</Telephone>
+<Mobile></Mobile>
+<Other></Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>Fabio/ Isaac - Manutenção</Name>
+<Telephone>8763</Telephone>
+<Mobile></Mobile>
+<Other></Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>Felipe Jacom - Vendas</Name>
+<Telephone>8101</Telephone>
+<Mobile></Mobile>
+<Other></Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>Felipe Stefani - SSMA</Name>
+<Telephone>8220</Telephone>
+<Mobile></Mobile>
+<Other></Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>VAGO - Engenharia</Name>
+<Telephone>8741</Telephone>
+<Mobile></Mobile>
+<Other></Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>Gilcimar Cavalcante - Laboratório</Name>
+<Telephone>8920</Telephone>
+<Mobile></Mobile>
+<Other></Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>Giovanni Pessoa - Vendas</Name>
+<Telephone>8109</Telephone>
+<Mobile></Mobile>
+<Other></Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>Giulia Amaral - Marketing</Name>
+<Telephone>8120</Telephone>
+<Mobile></Mobile>
+<Other></Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>VAGO - Vendas</Name>
+<Telephone>8104</Telephone>
+<Mobile></Mobile>
+<Other></Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>Guilherme Sebinel - Processo - PCP</Name>
+<Telephone>8905</Telephone>
+<Mobile></Mobile>
+<Other></Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>Guilherme Souza - Engenharia</Name>
+<Telephone>8701</Telephone>
+<Mobile></Mobile>
+<Other></Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>Gustavo Galoni - Compras</Name>
+<Telephone>8303</Telephone>
+<Mobile></Mobile>
+<Other></Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>Isabela Queiroz - Compras</Name>
+<Telephone>8302</Telephone>
+<Mobile></Mobile>
+<Other></Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>Ivan Renato - Ferramentaria</Name>
+<Telephone>8980</Telephone>
+<Mobile></Mobile>
+<Other></Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>Jeferson Godoi - Manutenção</Name>
+<Telephone>8760</Telephone>
+<Mobile></Mobile>
+<Other></Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>Jonas Squetim - PCP</Name>
+<Telephone>8722</Telephone>
+<Mobile></Mobile>
+<Other></Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>Gabriel Assis - Manutenção</Name>
+<Telephone>8764</Telephone>
+<Mobile></Mobile>
+<Other></Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>Josilene Santana - Contratos</Name>
+<Telephone>8140</Telephone>
+<Mobile></Mobile>
+<Other></Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>Kerli Chacon - Vendas</Name>
+<Telephone>8106</Telephone>
+<Mobile></Mobile>
+<Other></Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>Laiane Souza - Contratos</Name>
+<Telephone>8142</Telephone>
+<Mobile></Mobile>
+<Other></Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>Lara Delpoio - Compras</Name>
+<Telephone>8301</Telephone>
+<Mobile></Mobile>
+<Other></Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>Lavoisier Oliveira - Engenharia</Name>
+<Telephone>8704</Telephone>
+<Mobile></Mobile>
+<Other></Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>Leticia Rezende - Vendas</Name>
+<Telephone>8102</Telephone>
+<Mobile></Mobile>
+<Other></Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>Maria - Limpeza</Name>
+<Telephone>8240</Telephone>
+<Mobile></Mobile>
+<Other></Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>Lucas Almeida - Processo - PCP</Name>
+<Telephone>8902</Telephone>
+<Mobile></Mobile>
+<Other></Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>Luciano Romero - RE AL EX</Name>
+<Telephone>8843</Telephone>
+<Mobile></Mobile>
+<Other></Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>Luis Fernando - Vendas</Name>
+<Telephone>8100</Telephone>
+<Mobile></Mobile>
+<Other></Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>Luiz Alexandre - Montagem</Name>
+<Telephone>8800</Telephone>
+<Mobile></Mobile>
+<Other></Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>Manutenção VAGO - Manutenção</Name>
+<Telephone>8761</Telephone>
+<Mobile></Mobile>
+<Other></Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>Marcela Barbieri - Financeiro</Name>
+<Telephone>8401</Telephone>
+<Mobile></Mobile>
+<Other></Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>Matheus Ribeiro - TI</Name>
+<Telephone>8502</Telephone>
+<Mobile></Mobile>
+<Other></Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>Montagem Final - Montagem</Name>
+<Telephone>8802</Telephone>
+<Mobile></Mobile>
+<Other></Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>Noeld Cangussu - Fundição</Name>
+<Telephone>8900</Telephone>
+<Mobile></Mobile>
+<Other></Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>Paulo Almeida - TI</Name>
+<Telephone>8503</Telephone>
+<Mobile></Mobile>
+<Other></Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>Paulo Rodrigues - RH</Name>
+<Telephone>8200</Telephone>
+<Mobile></Mobile>
+<Other></Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>Reinaldo - RE AL EX</Name>
+<Telephone>8844</Telephone>
+<Mobile></Mobile>
+<Other></Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>Preparação - Montagem</Name>
+<Telephone>8801</Telephone>
+<Mobile></Mobile>
+<Other></Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>QA Fundição - Qualidade</Name>
+<Telephone>8604</Telephone>
+<Mobile></Mobile>
+<Other></Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>Rafael Correa - Ferramentaria</Name>
+<Telephone>8981</Telephone>
+<Mobile></Mobile>
+<Other></Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>Rafael Faria - TI</Name>
+<Telephone>8501</Telephone>
+<Mobile></Mobile>
+<Other></Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>Recepção - RH</Name>
+<Telephone>8000</Telephone>
+<Mobile></Mobile>
+<Other></Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>Renato Pizzi - RE AL EX</Name>
+<Telephone>8840</Telephone>
+<Mobile></Mobile>
+<Other></Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>Ricardo Moraes - Manutenção</Name>
+<Telephone>8762</Telephone>
+<Mobile></Mobile>
+<Other></Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>Thiago Pedroso - Lider Produção</Name>
+<Telephone>8903</Telephone>
+<Mobile></Mobile>
+<Other></Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>Tiago Massareto - Contratos</Name>
+<Telephone>8144</Telephone>
+<Mobile></Mobile>
+<Other></Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>Usinagem - Usinagem</Name>
+<Telephone>8821</Telephone>
+<Mobile></Mobile>
+<Other></Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>Usinagem VAGO - Usinagem</Name>
+<Telephone>8820</Telephone>
+<Mobile></Mobile>
+<Other></Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>Vanessa Neris - Qualidade</Name>
+<Telephone>8601</Telephone>
+<Mobile></Mobile>
+<Other></Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>Vasco Neto - Compras</Name>
+<Telephone>8300</Telephone>
+<Mobile></Mobile>
+<Other></Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>Wanderson Almeida - Vendas</Name>
+<Telephone>8107</Telephone>
+<Mobile></Mobile>
+<Other></Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>Willian Moterle - PCP</Name>
+<Telephone>8720</Telephone>
+<Mobile></Mobile>
+<Other></Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>Antonia - Limpeza</Name>
+<Telephone>8241</Telephone>
+<Mobile></Mobile>
+<Other></Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>Luzia - RH</Name>
+<Telephone>8201</Telephone>
+<Mobile></Mobile>
+<Other></Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>VAGO - Laboratorio</Name>
+<Telephone>8605</Telephone>
+<Mobile></Mobile>
+<Other></Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>Rafael Fernandes - Qualidade</Name>
+<Telephone>8606</Telephone>
+<Mobile></Mobile>
+<Other></Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>Luidy - Qualidade</Name>
+<Telephone>8607</Telephone>
+<Mobile></Mobile>
+<Other></Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>Jefferson - Lider Produção</Name>
+<Telephone>8907</Telephone>
+<Mobile></Mobile>
+<Other></Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>Fabiana - Processo - PCP</Name>
+<Telephone>8906</Telephone>
+<Mobile></Mobile>
+<Other></Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
+</PhoneBook>
